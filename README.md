@@ -8,12 +8,11 @@
 
 <p align="center"> 
   <div display= "flex" flex-direction="row" >
-   <img src="/Screenshots/Screenshot_20210701-165510.jpg" width="151" height="329" alt="o jogo">
-  <img src="/Screenshots/Screenshot_20210701-165533.jpg" width="151" height="329" alt="o jogo">
-  <img src="/Screenshots/Screenshot_20210701-165553.jpg" width="151" height="329" alt="o jogo">
-  <img src="/Screenshots/Screenshot_20210701-165944.jpg" width="151" height="329" alt="o jogo">
-  <img src="/Screenshots/Screenshot_20210701-170023.jpg" width="151" height="329" alt="o jogo">
-  <img src="/Screenshots/Screenshot_20210701-170046.jpg" width="151" height="329" alt="o jogo">
+  <img src="/Screenshots/Screenshot_20210701-165510.jpg" width="151" height="329" alt="ScreenShot">
+  <img src="/Screenshots/Screenshot_20210701-165533.jpg" width="151" height="329" alt="ScreenShot">
+  <img src="/Screenshots/Screenshot_20210701-165553.jpg" width="151" height="329" alt="ScreenShot">
+  <img src="/Screenshots/Screenshot_20210701-170023.jpg" width="151" height="329" alt="ScreenShot">
+  <img src="/Screenshots/Screenshot_20210701-170046.jpg" width="151" height="329" alt="ScreenShot">
   </div>
 </p>
 
